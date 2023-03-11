@@ -1,0 +1,14 @@
+name: dbul
+description: Double Bullseye - dbul - the dart full text search engine
+version: 0.0.1
+repository: https://github.com/sjhorn/dbul
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
